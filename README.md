@@ -10,4 +10,64 @@
    - Zahra Auliana (232101224)
 
 ## Splash Screnn
-    <img width="307" height="558" alt="Capture (2)" src="https://github.com/user-attachments/assets/cf6944d8-3af8-43ad-9d46-e4c778457566" />
+   <img width="307" height="558" alt="Capture (2)" src="https://github.com/user-attachments/assets/cf6944d8-3af8-43ad-9d46-e4c778457566" />
+
+   - Menampilkan logo aplikasi sebentar sebagai identitas.
+         - Memberi waktu aplikasi untuk melakukan proses loading awal (misalnya inisialisasi data atau service).
+         - Mengarahkan otomatis ke halaman Login setelah durasi tertentu.
+
+## Log in
+   <img width="297" height="531" alt="image" src="https://github.com/user-attachments/assets/66ad07c7-4156-4df7-96f8-30982195ac86" />
+
+         - Form input email/username dan password
+         - Tombol login dengan validasi sederhana
+         - Navigasi ke halaman Home setelah login berhasil
+
+## Register 
+   <img width="300" height="493" alt="image" src="https://github.com/user-attachments/assets/ec401978-def7-49fc-9dc5-7c0e66d22410" />
+
+         - Form input data pengguna baru (nama, email, password)
+         - Tombol register untuk menyimpan data sementara
+         - Navigasi kembali ke halaman login setelah registrasi
+
+## Home
+   <img width="283" height="553" alt="image" src="https://github.com/user-attachments/assets/89b85238-eaaf-4b3e-831d-128cbd8b7748" /> <img width="296" height="554" alt="image" src="https://github.com/user-attachments/assets/acd5c6bb-074d-4406-97e0-7ff2268aff0b" />
+  
+      - Tampilan utama aplikasi kesehatan menampilkan informasi sederhana (misalnya tips kesehatan, status pengguna, atau menu navigasi)
+
+
+## Folder Structure
+```
+lib/
+ ├── main.dart
+ ├── navigation/
+ │    └── curved_navbar.dart
+ ├── screen/
+ │    ├── home_screen.dart
+ │    ├── login_screen.dart
+ │    ├── navbar_screen.dart
+ │    ├── register_screen.dart
+ │    └── splash_screen.dart
+ └── widgets/
+      ├── category_list.dart
+      ├── doctor_schedule_page.dart
+      ├── google_calendar.dart
+      ├── home_header.dart
+      ├── specialist_banner.dart
+      ├── time_picker_dialog.dart
+      └── top_doctor_card.dart
+```
+
+## Pubspace.yaml
+   - Navbar
+   <img width="772" height="520" alt="nambar" src="https://github.com/user-attachments/assets/0f8509bb-f288-4746-89d7-66218ae7bbd4" />
+
+
+   - asset image
+
+     <img width="880" height="1128" alt="image" src="https://github.com/user-attachments/assets/ed737a5b-de20-4f2f-ad3d-38d136fbba43" />
+
+
+
+
+
