@@ -28,20 +28,20 @@
    <img width="308" height="494" alt="Capture3" src="https://github.com/user-attachments/assets/f71d3fcb-bc63-42f3-928a-f8f985d62020" />
 
 
-         - Form input data pengguna baru (nama, email, password)
-         - Tombol register untuk menyimpan data sementara
-         - Navigasi kembali ke halaman login setelah registrasi
+      - Form input data pengguna baru (nama, email, password)
+      - Tombol register untuk menyimpan data sementara
+      - Navigasi kembali ke halaman login setelah registrasi
 
 ##  🚀 Home
    <img width="304" height="556" alt="Capture4" src="https://github.com/user-attachments/assets/51c839f7-913f-492f-a470-231383a8b54c" />
 <img width="308" height="556" alt="Capture5" src="https://github.com/user-attachments/assets/d2d9db74-af6e-46eb-8fa6-274b1a9692e9" />
 
-      - Tampilan utama aplikasi kesehatan menampilkan informasi sederhana (misalnya tips kesehatan, status pengguna, atau menu navigasi)
+   - Tampilan utama aplikasi kesehatan menampilkan informasi sederhana (misalnya tips kesehatan, status pengguna, atau menu navigasi)
 
 ##  🚀 Jadwal dokter
    <img width="303" height="555" alt="Capture6" src="https://github.com/user-attachments/assets/853ee39f-f8b5-422c-8c63-c570cfd2a195" /> <img width="306" height="561" alt="Capture7" src="https://github.com/user-attachments/assets/9a89a538-c888-4653-8648-b74477f241e9" />
 
-   - Halaman ini dirancang untuk memudahkan pengguna dalam memilih tanggal, melihat jam praktik, kapasitas pasien, dan memilih nomor antrian untuk membuat janji temu dengan dokter.
+- Halaman ini dirancang untuk memudahkan pengguna dalam memilih tanggal, melihat jam praktik, kapasitas pasien, dan memilih nomor antrian untuk membuat janji temu dengan dokter.
 
 
 ## 🚀 Folder Structure
