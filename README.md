@@ -17,21 +17,24 @@
          - Mengarahkan otomatis ke halaman Login setelah durasi tertentu.
 
 ## Log in
-   <img width="297" height="531" alt="image" src="https://github.com/user-attachments/assets/66ad07c7-4156-4df7-96f8-30982195ac86" />
+   <img width="304" height="540" alt="Capture2" src="https://github.com/user-attachments/assets/1f9b1f18-3951-40ea-820c-763ef50d01f7" />
+
 
          - Form input email/username dan password
          - Tombol login dengan validasi sederhana
          - Navigasi ke halaman Home setelah login berhasil
 
 ## Register 
-   <img width="300" height="493" alt="image" src="https://github.com/user-attachments/assets/ec401978-def7-49fc-9dc5-7c0e66d22410" />
+   <img width="308" height="494" alt="Capture3" src="https://github.com/user-attachments/assets/f71d3fcb-bc63-42f3-928a-f8f985d62020" />
+
 
          - Form input data pengguna baru (nama, email, password)
          - Tombol register untuk menyimpan data sementara
          - Navigasi kembali ke halaman login setelah registrasi
 
 ## Home
-   <img width="283" height="553" alt="image" src="https://github.com/user-attachments/assets/89b85238-eaaf-4b3e-831d-128cbd8b7748" /> <img width="296" height="554" alt="image" src="https://github.com/user-attachments/assets/acd5c6bb-074d-4406-97e0-7ff2268aff0b" />
+   <img width="308" height="556" alt="Capture5" src="https://github.com/user-attachments/assets/d2d9db74-af6e-46eb-8fa6-274b1a9692e9" />
+
   
       - Tampilan utama aplikasi kesehatan menampilkan informasi sederhana (misalnya tips kesehatan, status pengguna, atau menu navigasi)
 
