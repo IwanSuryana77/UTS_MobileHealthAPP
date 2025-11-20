@@ -17,7 +17,7 @@
          - Mengarahkan otomatis ke halaman Login setelah durasi tertentu.
 
 ## Log in
-   <img width="304" height="540" alt="Capture2" src="https://github.com/user-attachments/assets/1f9b1f18-3951-40ea-820c-763ef50d01f7" />
+<img width="304" height="540" alt="Capture2" src="https://github.com/user-attachments/assets/1f9b1f18-3951-40ea-820c-763ef50d01f7" />
 
 
          - Form input email/username dan password
@@ -33,10 +33,15 @@
          - Navigasi kembali ke halaman login setelah registrasi
 
 ## Home
-   <img width="308" height="556" alt="Capture5" src="https://github.com/user-attachments/assets/d2d9db74-af6e-46eb-8fa6-274b1a9692e9" />
+   <img width="304" height="556" alt="Capture4" src="https://github.com/user-attachments/assets/51c839f7-913f-492f-a470-231383a8b54c" />
+<img width="308" height="556" alt="Capture5" src="https://github.com/user-attachments/assets/d2d9db74-af6e-46eb-8fa6-274b1a9692e9" />
 
-  
       - Tampilan utama aplikasi kesehatan menampilkan informasi sederhana (misalnya tips kesehatan, status pengguna, atau menu navigasi)
+
+## Jadwal dokter
+   <img width="303" height="555" alt="Capture6" src="https://github.com/user-attachments/assets/853ee39f-f8b5-422c-8c63-c570cfd2a195" /> <img width="306" height="561" alt="Capture7" src="https://github.com/user-attachments/assets/9a89a538-c888-4653-8648-b74477f241e9" />
+
+
 
 
 ## Folder Structure
