@@ -44,7 +44,7 @@
    - Halaman ini dirancang untuk memudahkan pengguna dalam memilih tanggal, melihat jam praktik, kapasitas pasien, dan memilih nomor antrian untuk membuat janji temu dengan dokter.
 
 
-## Folder Structure
+## 🚀 Folder Structure
 ```
 lib/
  ├── main.dart
@@ -66,7 +66,7 @@ lib/
       └── top_doctor_card.dart
 ```
 
-## Pubspace.yaml
+## 🚀 Pubspace.yaml
    - Navbar
    <img width="495" height="114" alt="image" src="https://github.com/user-attachments/assets/b9b8106c-783e-46ce-837e-448d82c4f1e9" />
 
